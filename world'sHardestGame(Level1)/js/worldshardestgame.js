@@ -1,16 +1,4 @@
-/*
-    Kent State University
-    CS 44105/54105 Web Programming I
-    Fall 2017
-    Assignment 3
-    The World’s Hardest Game 2 Remake
-    worldshardestgame.html
-    Author 1: Abdulkareem Alali, aalali1@kent.edu
-    Author 2: Gaganpreet Kaur, gkaur3@kent.edu
-*/
 
-
-//var coinCollection= new Audio("soundeffects/CoinCollect.wav");
 
 var music= new Audio("soundeffects/World'sHardestGame2ThemeSong.mp3");
 			music.volume= .40;
